@@ -1,2 +1,5 @@
 # ADT-Abstract-data-type-
-Implementing Linked listd, Stacks and Queues.
+## Implementing: 
++ Linked lists.
++ Stack.
++ Queue.
